@@ -1,0 +1,6 @@
+{
+  "name": "multilingiaul translation f script tts image gen long text",
+  "description": "Paste a video script, and this app will use Gemini to generate descriptive prompts, then use Imagen to create images for each prompt. You can specify an artistic style and download the generated images.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
